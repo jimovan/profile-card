@@ -16,7 +16,7 @@ This is my solution to the [Profile card component challenge on Frontend Mentor]
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/profile-card-challenge-1-tfRlE-1sZ](https://www.frontendmentor.io/solutions/profile-card-challenge-1-tfRlE-1sZ)
 - Live Site URL: [https://jimovan.github.io/profile-card/](https://jimovan.github.io/profile-card/)
 
 ### Built with
