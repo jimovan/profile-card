@@ -9,9 +9,10 @@ This is my solution to the [Profile card component challenge on Frontend Mentor]
 - Build out the project to the designs provided
 
 ### Screenshot
-
-![](./screenshots/desktop.png)
-![](./screenshots/mobile.png)
+<p float="left">
+  <img src="./screenshots/desktop.png" width="600"/> 
+  <img src="./screenshots/mobile.png" width="200"/> 
+</p>
 
 ### Links
 
